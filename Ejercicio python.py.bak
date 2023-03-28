@@ -4,5 +4,3 @@ def suma(x, y):
 
 # Llama a la función de suma
 print(suma(2, 3))
-
-#comentario liz
